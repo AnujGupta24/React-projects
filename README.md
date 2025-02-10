@@ -24,7 +24,7 @@ This is a personal portfolio website built using **React.js** and styled with **
 ### 1. Project Setup
 - Created a new React project using:
   ```sh
-  npx create-react-app my-portfolio
+  npm create vite@latest my-portfolio -- --template react
   ```
 - Installed dependencies:
   ```sh
